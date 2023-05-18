@@ -23,7 +23,7 @@ In addition to my technical skills, I have a strong emphasis on collaboration an
 If you want to contact me for questions, collaborations or just to connect, you can find me on the following platforms:
 
 - Correo electrónico: [dariusjosedelacruz@gmail.com](mailto:dariusjosedelacruz@gmail.com)
-- LinkedIn: [Darius Jose]([enlace_a_tu_perfil_de_LinkedIn](https://www.linkedin.com/in/darius-jose-de-la-cruz-hilario-760835214/))
+- LinkedIn: [Darius Jose](https://www.linkedin.com/in/darius-jose-de-la-cruz-hilario-760835214/)
 - Instagram: [@darius_c.h](https://instagram.com/darius_c.h?igshid=OGQ5ZDc2ODk2ZA==)
 
 Thank you for visiting my profile!
