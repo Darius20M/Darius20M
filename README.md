@@ -20,16 +20,10 @@ In addition to my technical skills, I have a strong emphasis on collaboration an
 
 ## Contacto
 
-Si deseas contactarme para preguntas, colaboraciones o simplemente para conectarte, puedes encontrarme en las siguientes plataformas:
+If you want to contact me for questions, collaborations or just to connect, you can find me on the following platforms:
 
-- Correo electrónico: [tu@email.com](mailto:tu@email.com)
-- LinkedIn: [Tu Nombre](enlace_a_tu_perfil_de_LinkedIn)
-- Twitter: [@tu_usuario](enlace_a_tu_perfil_de_Twitter)
+- Correo electrónico: [dariusjosedelacruz@gmail.com](mailto:dariusjosedelacruz@gmail.com)
+- LinkedIn: [Darius Jose]([enlace_a_tu_perfil_de_LinkedIn](https://www.linkedin.com/in/darius-jose-de-la-cruz-hilario-760835214/))
+- Instagram: [@darius_c.h](https://instagram.com/darius_c.h?igshid=OGQ5ZDc2ODk2ZA==)
 
-## Estadísticas de GitHub
-
-Puedes mostrar tus estadísticas de GitHub utilizando la función de tarjeta de GitHub. A continuación, se muestra un ejemplo:
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
-
-¡Gracias por visitar mi perfil!
+Thank you for visiting my profile!
