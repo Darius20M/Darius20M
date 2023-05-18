@@ -1,6 +1,6 @@
 # Hello I'm Darius J
 
-¡Bienvenido/a a mi perfil de GitHub!
+Welcome to my GitHub profile!
 
 ## About Me
 
