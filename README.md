@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-My name is Darius Jose, a Django junior developer passionate about creating web applications. I specialize in the Django framework and have experience in developing scalable and secure applications. <br> <br> With solid knowledge in Python and Django, I can build efficient and functional web applications. I am constantly learning and improving my skills to keep abreast of the latest trends and practices in web development. I have a solid understanding of programming principles and software architecture. I have worked on projects involving the implementation of functionalities such as:
+My name is Darius Jose, a Django developer passionate about creating web applications. I specialize in the Django framework and have experience in developing scalable and secure applications. <br> <br> With solid knowledge in Python and Django, I can build efficient and functional web applications. I am constantly learning and improving my skills to keep abreast of the latest trends and practices in web development. I have a solid understanding of programming principles and software architecture. I have worked on projects involving the implementation of functionalities such as:
 
 - User authentication and authorization
 - RESTful API development and integration
